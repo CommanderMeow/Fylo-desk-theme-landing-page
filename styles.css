@@ -28,7 +28,7 @@ a:hover {
 
 h1 {
   font-size: 2.5rem;
-  padding: 2% 30%;
+  padding: 2% 27%;
   font-family: 'Raleway', sans-serif;
   line-height: 1.5;
 }
@@ -109,13 +109,13 @@ p {
 
 .intro p {
   font-size: 1.3rem;
-  padding: 0 33%;
+  padding: 0 29%;
 }
 
 .cta-button {
   font-size: 1rem;
   font-weight: 700;
-  margin: 2% 0 5%;
+  margin: 3% 0 5%;
   padding: 20px 100px;
 }
 
@@ -251,7 +251,7 @@ p {
   border-style: none;
   display: inline;
   padding: 15px 3%;
-  flex-basis: 80%;
+  flex-basis: 70%;
 }
 
 #email::placeholder {
@@ -259,7 +259,7 @@ p {
 }
 
 .email-button {
-  padding: 15px 0;
+  padding: 15px 100px;
   margin-left: 5%;
   font-weight: 700;
 }
